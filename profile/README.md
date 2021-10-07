@@ -10,9 +10,10 @@
  - Dev Discord: https://discord.gg/GdPpEpK2Y5
 <!--
 ### Social
- - Facebook: https://www.facebook.com/aiko.it.systems
+ - Facebook:  https://www.facebook.com/aiko.it.systems
+ - Twitter:   https://twitter.com/aiko_it_systems
  - Instagram: https://www.instagram.com/aiko_it_systems
- - Patreon: https://www.patreon.com/aiko_it_systems
+ - Patreon:   https://www.patreon.com/aiko_it_systems
 
 
 **Here are some ideas to get you started:**
