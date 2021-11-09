@@ -1,7 +1,5 @@
 ## Welcome to AITSYS
 
-[![Cute](https://cdn.aitsys.dev/cute.jpg)](https://aitsys.dev)
-
 ### Website
  - https://aitsys.dev
 
