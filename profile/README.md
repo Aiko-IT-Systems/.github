@@ -6,6 +6,8 @@
 ### Discord
  - Discord: https://discord.gg/discatsharp
  - Dev Discord: https://discord.gg/GdPpEpK2Y5
+
+We do stuff related to @discord
 <!--
 ### Social
  - Facebook:  https://www.facebook.com/aiko.it.systems
