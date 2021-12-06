@@ -1,5 +1,7 @@
 ## Welcome to AITSYS
 
+![original](https://user-images.githubusercontent.com/14029133/144901762-ff0ed51c-d96d-4dc7-b3b7-ddc02c92991f.gif)
+
 ### Website
  - https://aitsys.dev
 
