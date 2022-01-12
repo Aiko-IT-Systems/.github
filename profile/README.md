@@ -1,6 +1,6 @@
 ## Welcome to AITSYS
 
-![original](https://user-images.githubusercontent.com/14029133/144901762-ff0ed51c-d96d-4dc7-b3b7-ddc02c92991f.gif)
+![257384475_605521974234176_148658980280765940_n](https://user-images.githubusercontent.com/14029133/149122600-f7bbc401-bd8c-4960-abe9-c29524b04177.jpg)
 
 ### Website
  - https://aitsys.dev
