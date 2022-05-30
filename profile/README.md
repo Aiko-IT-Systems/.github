@@ -6,10 +6,6 @@
 ### Website
  - https://aitsys.dev
 
-### Discord
- - Discord: https://discord.gg/U4BGHpKSF7
- - Dev Discord: https://discord.gg/GdPpEpK2Y5
-
 We do stuff related to @discord
 <!--
 ### Social
