@@ -6,7 +6,7 @@
 ### Website
  - https://aitsys.dev
 
-### Server
+### Discord
  - https://discord.gg/Uk7sggRBTm
 
 We do stuff related to @discord
