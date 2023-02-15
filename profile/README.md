@@ -17,6 +17,13 @@ Open Source work <3
  - Twitter:   https://twitter.com/aiko_it_systems
  - Instagram: https://www.instagram.com/aiko_it_systems
  - Patreon:   https://www.patreon.com/aiko_it_systems
+ 
+ ### Platforms
+ - NuGet: https://www.nuget.org/profiles/Aiko-IT-Systems
+ - Google Play Store: https://play.google.com/store/apps/dev?id=8522447285588463857
+ - NPM: https://www.npmjs.com/org/aitsys
+ - Steam: https://store.steampowered.com/developer/aitsys
+ - Docker Hub: https://hub.docker.com/u/aitsys
 
 ### Note
 We are not a company, we are a group of volunteer developers.
