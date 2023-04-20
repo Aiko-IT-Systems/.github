@@ -26,5 +26,4 @@ Open Source work <3
  - Docker Hub: https://hub.docker.com/u/aitsys
 
 ### Note
-We are not a company, we are a group of volunteer developers.
 Come and join us if you want to learn more and improve your skills!
