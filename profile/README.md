@@ -24,6 +24,7 @@ Open Source work <3
  - Google Play Store: https://play.google.com/store/apps/dev?id=8522447285588463857
  - NPM: https://www.npmjs.com/org/aitsys
  - Steam: https://store.steampowered.com/developer/aitsys
+ - IGDB: https://www.igdb.com/companies/aiko-it-systems
  - Docker Hub: https://hub.docker.com/u/aitsys
 
 ### Note
