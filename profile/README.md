@@ -7,7 +7,7 @@
  - https://aitsys.dev
 
 ### Discord
- - https://discord.gg/Uk7sggRBTm
+ - https://discord.gg/2HWta4GXus
 
 We do mainly stuff related to @discord
 Open Source work <3
