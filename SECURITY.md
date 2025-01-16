@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. Please report any security vulnerabilities to us by writing an email to [support@aitsys.dev](mailto:support@aitsys.dev) or by opening a ticket in our Discord server.
+If you discover a security vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. Please report any security vulnerabilities to us by writing an email to [aiko@aitsys.dev](mailto:aiko@aitsys.dev) or by opening a ticket in our Discord server.
 
 ## Responsible Disclosure
 
@@ -10,7 +10,7 @@ We believe in responsible disclosure. Please give us adequate time to investigat
 
 ## Enforcement
 
-We take security seriously at DisCatSharp. Attempts to flood or overload our systems, or any other form of attack, will not be tolerated and will be met with strict enforcement actions, including potential bans.
+We take security seriously at AITSYS. Attempts to flood or overload our systems, or any other form of attack, will not be tolerated and will be met with strict enforcement actions, including potential bans.
 
 ## Acknowledgment
 
