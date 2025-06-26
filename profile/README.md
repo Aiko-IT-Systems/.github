@@ -4,10 +4,10 @@
 (Art by Kevin Hong)
 
 ### Website
- - https://aitsys.dev
+ - https://aitsys.dev (Not Active)
 
 ### Discord
- - https://discord.gg/2HWta4GXus
+ - https://discord.gg/RXA6u3jxdU
 
 We do mainly stuff related to @discord
 Open Source work <3
