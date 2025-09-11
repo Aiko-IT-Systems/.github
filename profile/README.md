@@ -4,7 +4,7 @@
 (Art by Kevin Hong)
 
 ### Website
- - https://aitsys.dev (Not Active)
+ - https://aitsys.dev
 
 ### Discord
  - https://discord.gg/RXA6u3jxdU
