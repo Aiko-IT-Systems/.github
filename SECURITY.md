@@ -15,3 +15,26 @@ We take security seriously at AITSYS. Attempts to flood or overload our systems,
 ## Acknowledgment
 
 By contributing to this project, you agree to abide by this Security Policy and understand that violations may result in enforcement actions, including bans or removal from the community.
+
+## AI Policy
+
+We do not grant any permission to use AI tooling to find possible vulnerabilities on our infrastructure. If this rule is broken we will take legal actions.
+
+## Bug Bounty
+
+Due to being an open-source-only developer group we cannot afford any bug bounty programs. The most we can do is noting down the name of the reporters in our gist.
+
+## Info For .well-known/security.txt
+
+Cloudflare hard-cached our security.txt which means it's outdated. 
+
+The following should be considered active:
+```
+Contact: mailto:aiko@aitsys.dev
+Encryption: https://gist.githubusercontent.com/Lulalaby/6e03b3f83ddb023d3688ea29e3726712/raw/6d3549886ccbdb934df289cd203efd374ae9caec/pgp-key.txt
+Acknowledgments: https://gist.github.com/Lulalaby/c5aeb361289b8e97130aa838e5ea9248
+AITSYS Policy: https://raw.githubusercontent.com/Aiko-IT-Systems/.github/main/SECURITY.md
+Pycord Policy: https://raw.githubusercontent.com/Pycord-Development/.github/main/SECURITY.md
+Preferred-Languages: en
+Expires: 2030-12-31T23:59:00Z
+```
